@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "259511782351",
+    "firebase_url": "https://realdatabase-140fa.firebaseio.com",
+    "project_id": "realdatabase-140fa",
+    "storage_bucket": "realdatabase-140fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259511782351:android:42cd5704b49941bc",
+        "android_client_info": {
+          "package_name": "com.eslamshawky.hp.realdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259511782351-mqqobme2elqda1m924q67ovfdoboacoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eslamshawky.hp.realdatabase",
+            "certificate_hash": "ad58f0931274e176cba49361d8cea8f231bf8386"
+          }
+        },
+        {
+          "client_id": "259511782351-jubu4q0u81qufgqqg7j6260b7juk2e1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltxMrVbN-2VwpienVtvpAM4Gmd0aOQIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259511782351-jubu4q0u81qufgqqg7j6260b7juk2e1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
