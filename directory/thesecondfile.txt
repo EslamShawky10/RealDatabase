@@ -1,3 +1,0 @@
-firebase and database
-realtime
-java
